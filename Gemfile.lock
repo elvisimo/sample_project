@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/bmabey/database_cleaner.git
-  revision: f4d6677c817461069602debc14a928e48044efb2
+  revision: d43226f4fe93788acb2421f8145aa2be6902facc
   specs:
     database_cleaner (1.3.0)
 
@@ -150,7 +150,7 @@ GEM
     spork-rails (4.0.0)
       rails (>= 3.0.0, < 5)
       spork (>= 1.0rc0)
-    sprockets (2.12.3)
+    sprockets (2.11.0)
       hike (~> 1.2)
       multi_json (~> 1.0)
       rack (~> 1.0)
@@ -200,6 +200,7 @@ DEPENDENCIES
   sdoc (= 0.3.20)
   selenium-webdriver (= 2.35.1)
   spork-rails (= 4.0.0)
+  sprockets (= 2.11.0)
   sqlite3 (= 1.3.8)
   turbolinks (= 1.1.1)
   uglifier (= 2.1.1)
